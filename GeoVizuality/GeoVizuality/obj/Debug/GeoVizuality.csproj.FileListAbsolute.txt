@@ -1,0 +1,33 @@
+E:\Проекты\Программирование\GeoVizuality\GeoVizuality\bin\Debug\GeoVizuality.exe.config
+E:\Проекты\Программирование\GeoVizuality\GeoVizuality\bin\Debug\GeoVizuality.exe
+E:\Проекты\Программирование\GeoVizuality\GeoVizuality\bin\Debug\GeoVizuality.pdb
+E:\Проекты\Программирование\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.csprojAssemblyReference.cache
+E:\Проекты\Программирование\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.Form1.resources
+E:\Проекты\Программирование\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.Properties.Resources.resources
+E:\Проекты\Программирование\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.csproj.GenerateResource.cache
+E:\Проекты\Программирование\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.csproj.CoreCompileInputs.cache
+E:\Проекты\Программирование\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.exe
+E:\Проекты\Программирование\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.pdb
+E:\Проекты\Программирование\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.InputForm.resources
+C:\Users\Eugen\Desktop\GeoVizuality\GeoVizuality\bin\Debug\GeoVizuality.exe.config
+C:\Users\Eugen\Desktop\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.exe
+C:\Users\Eugen\Desktop\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.pdb
+C:\Users\Eugen\Desktop\GeoVizuality\GeoVizuality\bin\Debug\GeoVizuality.exe
+C:\Users\Eugen\Desktop\GeoVizuality\GeoVizuality\bin\Debug\GeoVizuality.pdb
+C:\Users\Eugen\Desktop\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.csprojAssemblyReference.cache
+C:\Users\Eugen\Desktop\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.Form1.resources
+C:\Users\Eugen\Desktop\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.InputForm.resources
+C:\Users\Eugen\Desktop\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.Properties.Resources.resources
+C:\Users\Eugen\Desktop\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.csproj.GenerateResource.cache
+C:\Users\Eugen\Desktop\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.csproj.CoreCompileInputs.cache
+E:\Учёба\Всякая учёба\Диплом 2020\GeoVizuality\GeoVizuality\bin\Debug\GeoVizuality.exe.config
+E:\Учёба\Всякая учёба\Диплом 2020\GeoVizuality\GeoVizuality\bin\Debug\GeoVizuality.exe
+E:\Учёба\Всякая учёба\Диплом 2020\GeoVizuality\GeoVizuality\bin\Debug\GeoVizuality.pdb
+E:\Учёба\Всякая учёба\Диплом 2020\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.csprojAssemblyReference.cache
+E:\Учёба\Всякая учёба\Диплом 2020\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.Form1.resources
+E:\Учёба\Всякая учёба\Диплом 2020\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.InputForm.resources
+E:\Учёба\Всякая учёба\Диплом 2020\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.Properties.Resources.resources
+E:\Учёба\Всякая учёба\Диплом 2020\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.csproj.GenerateResource.cache
+E:\Учёба\Всякая учёба\Диплом 2020\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.csproj.CoreCompileInputs.cache
+E:\Учёба\Всякая учёба\Диплом 2020\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.exe
+E:\Учёба\Всякая учёба\Диплом 2020\GeoVizuality\GeoVizuality\obj\Debug\GeoVizuality.pdb
